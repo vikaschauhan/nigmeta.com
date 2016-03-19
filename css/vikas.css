@@ -3810,7 +3810,17 @@ html.mmfb header h1 .site-name {
 		margin-bottom: 30px
 	}
 }
-
+.hero-image-foundation svg {
+	
+	background-position: right center;
+	background-size: contain;
+	height: 100%;
+	right: 0;
+	position: absolute;
+	top: 0;
+	width: 100%
+	
+}
 .hero-image {
 	background-position: left center;
 	background-size: cover;
