@@ -3124,7 +3124,7 @@ h4 svg {
 }
 
 .header h1 .site-name {
-	display: inline-block
+	display: inline-block;
 }
 
 @media (min-width:768px) {
