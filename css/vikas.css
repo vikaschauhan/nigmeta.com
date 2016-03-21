@@ -8653,8 +8653,8 @@ a.back-to-top .icon-arrow-down {
 /* BROWSER-ELEMENTS */
 
 .browser-elements {
- 
-	margin:0 auto;
+  margin-right: 30rem;
+  margin-bottom: 50rem;
 }
 
 .browser-elements .top {
