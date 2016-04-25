@@ -2025,7 +2025,15 @@ html:not(.js) .section-intro-content {
 .google-blue {
 	background: #448aff
 }
-
+.vikas-green{
+    background: #66D4D9;
+}
+.vikas-brown{
+    background: #ECCA79; 
+}
+.black-text{
+    color: #000;
+}
 .google-blue.fab:hover {
 	background: #2962ff
 }
@@ -2040,6 +2048,12 @@ html:not(.js) .section-intro-content {
 
 .google-yellow {
 	background: #ffbc00
+}
+.vikas-great{
+    background: #0EFEDE; 
+}
+.vikas-darkblue{
+    background: #25193F;
 }
 
 .google-red {
@@ -5154,7 +5168,17 @@ html.mmfb header h1 .site-name {
 }
 
 .footer {
-	background-color: #444;
+/*	background-color: #444;*/
+ 
+    
+
+background: #780206; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #780206 , #061161); /* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(right, #780206 , #061161);
+background: linear-gradient(to left, #780206 , #061161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        
+        
 	color: #a3a3a3;
 	padding: 50px 0
 }
